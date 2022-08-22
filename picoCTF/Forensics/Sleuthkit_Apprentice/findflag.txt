@@ -1,0 +1,3 @@
+This flag was found using Sleuthkit Autopsy.
+
+The img file was mounted in Sleuthkit and a file name search was performed for 'flag'.
